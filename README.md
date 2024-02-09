@@ -1,2 +1,4 @@
 # first-project
-Thsi is my first git repository.
+This is my first git repository.
+<br>
+Name: Shivam Deshmukh
